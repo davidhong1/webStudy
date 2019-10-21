@@ -115,8 +115,8 @@ func main() {
 go run *.go
 ```
 
-### 3. [go-xorm](https://github.com/go-xorm/xorm)
+### 3. [go-xorm](https://github.com/go-xorm/xorm)(暂无)
 xorm是一个简单而强大的Go语言ORM库. 通过它可以使数据库操作非常简便。
 
-### 4. [GoMybatis](https://github.com/zhuxiujia/GoMybatis)
+### 4. [GoMybatis](https://github.com/zhuxiujia/GoMybatis)(暂无)
 类似Mybatis的方式操作MySQL; 用go语言生成xml; 和Mybatis3.0无缝连接，方便Java项目转go项目
