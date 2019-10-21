@@ -16,6 +16,10 @@ GROM框架: ```go get -u github.com/jinzhu/gorm```
 create schema go_study
 ```
 
+### 根据你的数据库环境，修改以下文件中的数据库连接用户名、密码、ip
+1. database/gromMysql.go
+2. database/mysql.go
+
 ### database/sql操作MySQL
 使用原生database/sql操作MySQL
 
